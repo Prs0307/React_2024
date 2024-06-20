@@ -1,6 +1,6 @@
+/* eslint-disable react/prop-types */
 
-// import React,{useId} from "react";
-import PropTypes from 'prop-types';
+import {useId} from "react";
 
 function InputBox({
     label,
